@@ -1,3 +1,5 @@
+<h1>Do que se trata?</h1>
+<p>Um aplicativo que consome API de conselhos utilizando a biblioteca AXIOS. A cada toque no botão, um novo conselho é mostrado na tela</p>
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
